@@ -1,0 +1,17 @@
+ADVANCED PROGRAMMING PROJECT
+
+1. Compare Object Oriented Programming in Java and Ruby
+2. Compare Functional Programming in Haskell and SML
+3. New Programming Approaches: Data Wrangling & Smart contract
+3. Write a simple game in C++ using Object Oriented Programming (You can think any simple game by yourself)
+
+Some criteria:
+	- Write a technical report (.doc or .docx) that contains at least 4 chapters: Chap 1 to address question 1; Chap 2 to address question 2; Chap 3 to describe your research on question 3; Chap 4 to give description about your simple game (What is your gamme; how to setup; how to play; ...). You should use the faculty templates for Thesis or projects.
+	- You should provide as much detail as possible. Provide more examples/codes.
+	- A zip file contain all source code and execution files for your game
+
+Any question should be sent to anhtt@hcmut.edu.vn
+
+DEADLINE and SUBMISSION: will be notified in BkeL. 
+
+NOTE: DO NOT COPY ANY SOURCE, OTHERWISE, YOU GOT ZERO.
